@@ -1,0 +1,1 @@
+jQuery(document).on("click",".bpa_customize_error_notice .notice-dismiss",function(i){var o=jQuery(this).parent().data("bookingpress_confirm");return confirm(o)?void jQuery.ajax({type:"POST",url:appoint_ajax_obj.ajax_url,data:{action:"bookingpress_dismisss_admin_notice"}}):(i.preventDefault(),!1)});

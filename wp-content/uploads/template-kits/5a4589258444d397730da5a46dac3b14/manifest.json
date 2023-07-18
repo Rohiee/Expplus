@@ -1,0 +1,1383 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Gevent - Event Agency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gevent Question MetForm",
+            "screenshot": "screenshots\/gevent-question-metform.jpg",
+            "source": "templates\/gevent-question-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/gevent-question-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gevent Contact MetForm",
+            "screenshot": "screenshots\/gevent-contact-metform.jpg",
+            "source": "templates\/gevent-contact-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/gevent-contact-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gevent Newsletter MetForm",
+            "screenshot": "screenshots\/gevent-newsletter-metform.jpg",
+            "source": "templates\/gevent-newsletter-metform.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/gevent-newsletter-metform\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Detail",
+            "screenshot": "screenshots\/service-detail.jpg",
+            "source": "templates\/service-detail.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/service-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Detail",
+            "screenshot": "screenshots\/portfolio-detail.jpg",
+            "source": "templates\/portfolio-detail.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/portfolio-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/our-events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Error",
+            "screenshot": "screenshots\/404-error.jpg",
+            "source": "templates\/404-error.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/404-error\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gevent Header",
+            "screenshot": "screenshots\/gevent-header.jpg",
+            "source": "templates\/gevent-header.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/gevent-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gevent Footer",
+            "screenshot": "screenshots\/gevent-footer.jpg",
+            "source": "templates\/gevent-footer.json",
+            "preview_url": "https:\/\/gtkit.rometheme.pro\/gevent\/template-kit\/gevent-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "MetForm",
+            "version": "2.2.1",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.7.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.7.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "party-M8J3WXM.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/party-M8J3WXM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 300093,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "business-people-party-celebration-success-concept-XGXN6PU.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/business-people-party-celebration-success-concept-XGXN6PU.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 291140,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "concert-audience-PG2VFZFa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/concert-audience-PG2VFZFa-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 307620,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "group-of-friends-enjoying-party-throwing-confetti-C7NJQTG.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/group-of-friends-enjoying-party-throwing-confetti-C7NJQTG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 305801,
+            "dimensions": [
+                800,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "best-birthday-party-VCJK6MA.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/best-birthday-party-VCJK6MA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 302095,
+            "dimensions": [
+                800,
+                450
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "lipsum5.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/lipsum5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 3260,
+            "dimensions": [
+                300,
+                102
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum4.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/lipsum4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 2394,
+            "dimensions": [
+                300,
+                78
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum3.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/lipsum3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 3420,
+            "dimensions": [
+                300,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum2.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/lipsum2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 3089,
+            "dimensions": [
+                300,
+                92
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum1.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/lipsum1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 3500,
+            "dimensions": [
+                300,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "lipsum6.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/lipsum6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 3560,
+            "dimensions": [
+                300,
+                106
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "group-of-friends-having-fun-time-at-music-festival-ATZ7KVD.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/group-of-friends-having-fun-time-at-music-festival-ATZ7KVD-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 298132,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "group-of-office-worker-in-fancy-mask-having-celebr-42ALMCU.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/group-of-office-worker-in-fancy-mask-having-celebr-42ALMCU-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 301482,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "multicultural-happy-friends-piggybacking-together-AJSCTG4.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/multicultural-happy-friends-piggybacking-together-AJSCTG4-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 302159,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "celebrate-success-with-colleagues-business-celebra-HBQFY2F.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/celebrate-success-with-colleagues-business-celebra-HBQFY2F-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 305005,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "concert-audience-PG2VFZF.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/concert-audience-PG2VFZF-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 275984,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "people-at-the-concert-SKPN7UV.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/people-at-the-concert-SKPN7UV-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 301268,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "group-of-friends-drinking-beers-enjoying-music-fes-PLYH7QA.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/group-of-friends-drinking-beers-enjoying-music-fes-PLYH7QA-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 305934,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "empty-stage-concert-with-lighting-laser-beam-spotl-H34S9C7.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/empty-stage-concert-with-lighting-laser-beam-spotl-H34S9C7-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 293475,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "musicians-on-stage-at-a-live-rock-concert-F2CZRAW.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/musicians-on-stage-at-a-live-rock-concert-F2CZRAW.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 304622,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "portrait-man-wearing-glasses-DCG3R79.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/portrait-man-wearing-glasses-DCG3R79-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 304035,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "portrait-of-girl-dancer-ELQ5UZD.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/portrait-of-girl-dancer-ELQ5UZD-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 298069,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "young-man-drinking-at-fence-WZ58D3Q.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/young-man-drinking-at-fence-WZ58D3Q-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 296782,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "couple-standing-in-crowd-at-music-festival-2FGMHQ8a.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/couple-standing-in-crowd-at-music-festival-2FGMHQ8a-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 306439,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "business-people-party-celebration-success-concept-XGXN6PUa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/business-people-party-celebration-success-concept-XGXN6PUa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-detail.json",
+                    "name": "Service Detail"
+                }
+            ],
+            "filesize": 301947,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "asian-speaker-with-casual-suit-on-the-stage-presen-EAZCC7U.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/asian-speaker-with-casual-suit-on-the-stage-presen-EAZCC7U-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 303149,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "beautiful-couple-at-wedding-ceremony-W6GG58A.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/beautiful-couple-at-wedding-ceremony-W6GG58A-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 302992,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "celebrate-success-with-colleagues-business-celebra-6CCMUTA.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/celebrate-success-with-colleagues-business-celebra-6CCMUTA-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 295437,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "people-are-sitting-on-lawn-chairs-and-watching-and-4KU62F6.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/people-are-sitting-on-lawn-chairs-and-watching-and-4KU62F6-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 305366,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "delicious-handmade-layered-cake-decorated-with-spa-VELQG6C.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/delicious-handmade-layered-cake-decorated-with-spa-VELQG6C-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 296632,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "tents-on-grass-in-a-camping-area-at-an-outdoor-mus-W56SC2Q.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/tents-on-grass-in-a-camping-area-at-an-outdoor-mus-W56SC2Q-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 303847,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "group-of-friends-having-fun-time-at-music-festival-ATZ7KVDa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/group-of-friends-having-fun-time-at-music-festival-ATZ7KVDa-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                }
+            ],
+            "filesize": 301587,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "musicians-on-stage-at-a-live-rock-concert-F2CZRAWa.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/musicians-on-stage-at-a-live-rock-concert-F2CZRAWa-800x622.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                }
+            ],
+            "filesize": 302395,
+            "dimensions": [
+                900,
+                700
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "young-woman-with-headphones-standing-in-greenhouse-YKV5LK6.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/young-woman-with-headphones-standing-in-greenhouse-YKV5LK6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 304852,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "spain-barcelona-portrait-of-fashionable-young-man-GNBXWXH.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/spain-barcelona-portrait-of-fashionable-young-man-GNBXWXH-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 300505,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "portrait-of-fashionable-young-woman-with-camera-EUHRK7U.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/portrait-of-fashionable-young-woman-with-camera-EUHRK7U-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 302271,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "company-of-cheerful-friends-having-fun-toasting-pi-N76GKZ2a.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/company-of-cheerful-friends-having-fun-toasting-pi-N76GKZ2a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 302473,
+            "dimensions": [
+                800,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "crowd-holding-mobiles-on-selfie-sticks-at-the-musi-FYXHF2N.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/crowd-holding-mobiles-on-selfie-sticks-at-the-musi-FYXHF2N-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 300395,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "closeup-audio-mixer-NGJCWFE.jpg",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/closeup-audio-mixer-NGJCWFE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/404-error.json",
+                    "name": "404 Error"
+                }
+            ],
+            "filesize": 299964,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/CMB6Y9UPLW"
+        },
+        {
+            "filename": "Gevent-Logo.png",
+            "thumbnail_url": "http:\/\/gtkit.rometheme.pro\/gevent\/wp-content\/uploads\/sites\/8\/2022\/08\/Gevent-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/gevent-header.json",
+                    "name": "Gevent Header"
+                },
+                {
+                    "source": "templates\/gevent-footer.json",
+                    "name": "Gevent Footer"
+                }
+            ],
+            "filesize": 9364,
+            "dimensions": [
+                600,
+                162
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+.bpa-front-tabs {
+    --bpa-pt-main-green: #DBBE57 !important;  
+    --bpa-pt-main-green-darker: #DBBE57 !important;
+    --bpa-pt-main-green-alpha-12: #DBBE571F !important;
+}
+.bpa-front-tabs .bpa-front-tab-menu,.bpa-front-tabs .bpa-front-default-card {
+    background-color: #fff !important;
+}
+.bpa-front-tabs .bpa-front-tabs--foot{
+    background-color: #f4f7fb !important;
+} 
+.bpa-front-loader-cl-primary  { 
+    fill:#DBBE57 !important;
+}
+.bpa-front-module--atc-wrapper .bpa-front-btn:hover {
+    border-color: #000000 !important;
+}
+.bpa-front-tabs .bpa-front-module-heading,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell .vuecal__cell-date,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__weekdays-headings .weekday-label span,
+.bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt__ts-body--items .bpa-front--dt__ts-body--item span,
+.bpa-front-tabs .bpa-front-form-control input,
+.bpa-front-tabs .bpa-front-form-control .el-textarea__inner,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item .bpa-front-bs-sm__item-val,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-head p,
+.bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p,
+.bpa-front-tabs .el-form-item__label .bpa-front-form-label,
+.bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .--bpa-is-desc,
+.bpa-front-module--payment-methods .bpa-front-module--pm-body .bpa-front-module--pm-body__item p,                        
+.bpa-front-tabs .bpa-front-tab-menu .bpa-front-tab-menu--item,
+.el-form-item__error,
+.bpa-front-tabs .bpa-front-ci-item-title,
+.bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p strong,
+.bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si__card-body--heading,
+.bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt-ts__sub-heading,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item span,
+.bpa-front-module--bs-amount-details .bpa-fm--bs-amount-item .bpa-front-total-payment-amount-label,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-amount-details .bpa-front-module--bs-ad--price,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__title-bar span, 
+.bpa-front-tabs--foot .bpa-front-btn,
+.bpa-front-form-control.--bpa-country-dropdown.vue-tel-input strong,
+.bpa-front-form-control.--bpa-country-dropdown.vue-tel-input span:not(.material-icons-round),
+.bpa-front-tmc__booking-id .bpa-front-bi__label,
+.bpa-front-tmc__booking-id .bpa-front-bi__val,
+.bpa-front-tmc__head .bpa-front-tmc__title,
+.bpa-front-tmc__summary-content .bpa-front-tmc__sc-item .bpa-front-sc-item__label,
+.bpa-front-tmc__summary-content .bpa-front-tmc__sc-item .bpa-front-sc-item__val,
+.bpa-front-module--add-to-calendar .bpa-fm--atc__heading,
+.bpa-front-tmc__head p  
+{
+    font-family: Rubik !important;
+}
+.bpa-front-ci-pill.__bpa-is-active .bpa-front-ci-item-title,
+.bpa-front-tabs .bpa-front-form-control input,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item .bpa-front-bs-sm__item-val,
+.bpa-front-tabs .bpa-front-form-control .el-textarea__inner,                        
+.bpa-front-tabs .bpa-front-module-heading,
+.bpa-front-module--bs-amount-details .bpa-fm--bs-amount-item .bpa-front-total-payment-amount-label,
+.bpa-front-tmc__booking-id .bpa-front-bi__val,
+.bpa-front-tmc__head .bpa-front-tmc__title,
+.bpa-front-tmc__summary-content .bpa-front-tmc__sc-item .bpa-front-sc-item__val{ 
+    color: #232B3A !important;
+}                        
+.bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p strong,
+.bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt-ts__sub-heading,                        
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__title-bar span,                        
+.bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si__card-body--heading,
+.bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .--bpa-is-desc,
+.bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt__ts-body--items .bpa-front--dt__ts-body--item span,
+.bpa-front--dt__ts-sm-back-btn label,
+.bpa-front-tabs .el-form-item__label span,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item span,
+.bpa-front-module--payment-methods .bpa-front-module--pm-body .bpa-front-module--pm-body__item p,
+.bpa-front-tabs--vertical-left .bpa-front-tab-menu a,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__weekdays-headings .weekday-label span,
+.bpa-front-tabs .vuecal.vuecal--month-view .vuecal__title-bar .vuecal__arrow,
+.bpa-front-tabs--foot .bpa-front-btn.bpa-front-btn--borderless,
+.bpa-front-tmc__summary-content .bpa-front-tmc__sc-item .bpa-front-sc-item__label,
+.bpa-front-thankyou-module-container button.bpa-front-btn:not(:hover):not(:active):not(.has-text-color)  {
+    color: #535D71 !important;      
+}
+.bpa-front-tabs .bpa-front-ci-item-title,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-head p,
+.bpa-front-tabs--vertical-left .bpa-front-tab-menu a span,                 
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell:not(.vuecal__cell--out-of-scope):not(.vuecal__cell--selected):not(.vuecal__cell--today) .vuecal__cell-date,
+.bpa-front-tabs .bpa-front-tabs--vertical-left .bpa-front-tab-menu .bpa-front-tab-menu--item:hover,
+.bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p,
+.bpa-front-tmc__booking-id .bpa-front-bi__label,
+.bpa-front-tmc__head,
+.bpa-front-tmc__head p,
+.bpa-front-module--add-to-calendar .bpa-fm--atc__heading,
+.bpa-front-module--atc-wrapper .bpa-front-btn:hover {
+    color: #000000 !important;
+}
+.bpa-front-tabs--foot .bpa-front-btn--primary span,
+    .bpa-front-tabs--foot .bpa-front-btn--primary strong,
+.bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p strong.--is-service-price,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell--selected .vuecal__cell-date,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell--today.vuecal__cell--selected .vuecal__cell-date {
+    color: #fff !important;
+}
+.bpa-front--dt__ts-body--item.__bpa-is-selected {
+    background-color: #DBBE571F !important;
+}
+.bpa-front-tabs .vuecal__cell--out-of-scope .vuecal__cell-date{
+    color: var(--bpa-gt-gray-400) !important;
+}
+.bpa-front-module--booking-summary .bpa-front-module--bs-head .bpa-head__vector-item, 
+.bpa-front-module--confirmation .bpa-head__vector--confirmation .bpa-head__vector-item,
+.bpa-front-thankyou-module-container .bpa-front-tmc__head .bpa-front-tmc__vector--confirmation .bpa-head__vector-item {
+    fill: #DBBE57 !important;
+}
+.bpa-front-tabs--vertical-left .bpa-front-tab-menu a.bpa-front-tab-menu--item.__bpa-is-active,
+.bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-amount-details .bpa-front-module--bs-ad--price,
+.bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell--today .vuecal__cell-date,
+.bpa-front-tabs--vertical-left .bpa-front-tab-menu .bpa-front-tab-menu--item.__bpa-is-active::before {
+    color: #DBBE57 !important;
+}
+.bpa-front-tabs--vertical-left .bpa-front-tab-menu .bpa-front-tab-menu--item.__bpa-is-active span,
+.bpa-front-tabs .bpa-front-tabs--foot .bpa-front-btn--primary:focus {                 
+    box-shadow: 0 4px 8px rgba(219,190,87,0.06), 0 8px 16px rgba(219,190,87,0.16) !important;
+}               
+.bpa-front-tabs--vertical-left .bpa-front-tab-menu a.__bpa-is-active span {
+    color: var(--bpa-cl-white) !important;
+}               
+@media (min-width: 1200px){
+    .bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si__card-body--heading,                        
+    .bpa-front-tabs .bpa-front-module-heading {
+        font-size: 18px !important;
+    }
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p,
+    .bpa-front-tabs .bpa-front-ci-item-title,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-head p,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item .bpa-front-bs-sm__item-val,    
+    .bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p strong,
+    .bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt-ts__sub-heading,
+    .bpa-front-module--bs-amount-details .bpa-fm--bs-amount-item .bpa-front-total-payment-amount-label,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-amount-details .bpa-front-module--bs-ad--price,                        
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__title-bar span {
+        font-size: 16px !important;
+    }
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .--bpa-is-desc,
+    .bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt__ts-body--items .bpa-front--dt__ts-body--item span,
+    .bpa-front-tabs .el-form-item__label span,
+    .bpa-front-tabs .bpa-front-form-control input,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item span,
+    .bpa-front-module--payment-methods .bpa-front-module--pm-body .bpa-front-module--pm-body__item p,
+    .bpa-front-tabs--vertical-left .bpa-front-tab-menu a,
+    .bpa-front-tabs .bpa-front-form-control .el-textarea__inner,
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell .vuecal__cell-date,
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__weekdays-headings .weekday-label span,
+    .bpa-front-tabs--foot .bpa-front-btn {
+        font-size: 14px !important;
+    }
+}
+@media (max-width: 1024px){                      
+    .bpa-front-tabs .bpa-front-module-heading,
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__title-bar span
+     {
+        font-size: 16px !important;
+    }    
+
+    .bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si__card-body--heading,
+    .bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt-ts__sub-heading,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-head p,
+    .bpa-front-module--bs-amount-details .bpa-fm--bs-amount-item .bpa-front-total-payment-amount-label,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-amount-details .bpa-front-module--bs-ad--price{
+        font-size: 15px !important; 
+    }   
+    .bpa-front-tabs--vertical-left .bpa-front-tab-menu a,
+    .bpa-front-tabs .bpa-front-ci-item-title,
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .--bpa-is-desc,
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p,
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p strong,
+    .bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt__ts-body--items .bpa-front--dt__ts-body--item span,
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell .vuecal__cell-date,
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__weekdays-headings .weekday-label span,  
+    .bpa-front-tabs .el-form-item__label span,
+    .bpa-front-tabs .bpa-front-form-control input, 
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item .bpa-front-bs-sm__item-val,
+    .bpa-front-tabs--foot .bpa-front-btn   
+    {
+        font-size: 14px !important;
+    } 
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item span {
+        font-size: 13px !important;
+    } 
+}
+    
+@media (max-width: 576px){                               
+    .bpa-front-tabs .bpa-front-module-heading
+    {
+        font-size: 16px !important;
+    }
+    .bpa-front-tabs .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si__card-body--heading,            
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__weekdays-headings .weekday-label span
+    {
+        font-size: 15px !important; 
+    }    
+    .bpa-front-tabs--vertical-left .bpa-front-tab-menu a,
+    .bpa-front-tabs .bpa-front-ci-item-title,
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p strong,    
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__title-bar span,
+    .bpa-front-tabs .bpa-front--dt__calendar .vuecal.vuecal--month-view .vuecal__cell .vuecal__cell-date,
+    .bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt-ts__sub-heading,
+    .bpa-front-tabs .el-form-item__label span,
+    .bpa-front-tabs .bpa-front-form-control input,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-head p,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item .bpa-front-bs-sm__item-val,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-summary-content .bpa-front-module--bs-summary-content-item span,
+    .bpa-front-module--bs-amount-details .bpa-fm--bs-amount-item .bpa-front-total-payment-amount-label,
+    .bpa-front-tabs .bpa-front-module--booking-summary .bpa-front-module--bs-amount-details .bpa-front-module--bs-ad--price
+     {
+        font-size: 14px !important;
+    } 
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .--bpa-is-desc,
+    .bpa-front-module--service-item .bpa-front-si-card .bpa-front-si__card-body .bpa-front-si-cb__specs .bpa-front-si-cb__specs-item p,
+    .bpa-front-tabs .bpa-front--dt__time-slots .bpa-front--dt__ts-body .bpa-front--dt__ts-body--row .bpa-front--dt__ts-body--items .bpa-front--dt__ts-body--item span,
+    .bpa-front-module--payment-methods .bpa-front-module--pm-body .bpa-front-module--pm-body__item p,
+    .bpa-front-tabs--foot .bpa-front-btn {
+        font-size: 13px !important; 
+    }
+    .bpa-front-tabs--vertical-left .bpa-front-tab-menu .bpa-front-tab-menu--item.__bpa-is-active span {                 
+        box-shadow: none !important;
+    };      
+}
